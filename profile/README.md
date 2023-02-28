@@ -1,6 +1,10 @@
 # Introduction to IMMU3
 
-![4thTech logo](https://github.com/immu3-io/static-assets/raw/main/image/logo-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/immu3-io/static-assets/raw/main/image/logo-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/immu3-io/static-assets/raw/main/image/logo-dark.svg">
+  <img alt="IMMU3 logo" src="https://github.com/immu3-io/static-assets/raw/main/image/logo-dark.svg">
+</picture>
 
 Developed on a backbone of Block Labs R&D, the IMMU3 acts as the first on-chain communication integrator focusing on the adoption and commercialization of this new technology focusing on:
 - Whitelabel dMail & dChat framework
