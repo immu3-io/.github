@@ -6,18 +6,12 @@
   <img alt="IMMU3 logo" src="https://github.com/immu3-io/static-assets/raw/main/image/logo-dark.svg">
 </picture>
 
-Developed on a backbone of Block Labs R&D, the IMMU3 acts as the first on-chain communication integrator focusing on the adoption and commercialization of this new technology focusing on:
-- Whitelabel dMail & dChat framework
-- Integrator CaaS access (i.e. communication as a service) with out-the-box solutions
-  - decentralized storage,
-  - monetization methods and,
-  - 20+ L1s or L2s to choose from.
-- Communication-specific L1 concept and development
+Built on top of the Block Labs 4thTech stack, the immu3 acts as the first on-chain communication integrator focusing on the adoption and commercialisation of this new technology.
 
 ## Interested in reading more?
 
-In-depth articles and documentation can be found on
-our [Medium page](https://medium.com/immu3).
+In-depth research and clarificatios can be found in
+the projects [Thesis](https://bit.ly/immu3-thesis).
 
 ## Contact
 
