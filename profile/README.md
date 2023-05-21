@@ -17,4 +17,4 @@ the projects [Thesis](https://bit.ly/immu3-thesis).
 
 ## Contact
 
-If you have any questions or want to be part of our community, please DM us on [Twitter](https://twitter.com/immu3_io).
+If you want to start building on-chain communication dApps, please DM us on [Twitter](https://twitter.com/immu3_io target="_blank").
