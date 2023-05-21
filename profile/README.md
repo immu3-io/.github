@@ -13,8 +13,8 @@ Users will always have the freedom to move and access their communication or dat
 ## Interested in reading more?
 
 In-depth research and clarificatios can be found in
-the projects [Thesis](https://bit.ly/immu3-thesis).
+the projects [Thesis](https://bit.ly/immu3-thesis){:target="_blank"}.
 
 ## Contact
 
-If you want to start building on-chain communication dApps, please DM us on [Twitter](https://twitter.com/immu3_io target="_blank").
+If you want to start building on-chain communication dApps, please DM us on [Twitter](https://twitter.com/immu3_io){:target="_blank"}.
