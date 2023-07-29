@@ -22,6 +22,8 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 Zooming out...
 
+![immu3 by layers](https://github.com/immu3-io/static-assets/blob/b90554bcca1a4d7696079beb1a0cab5265129afa/image/infrastructural-layer-schematic-immu3.svg)
+
 ## Interested in reading more?
 
 In-depth research and clarifications can be found in
