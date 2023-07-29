@@ -26,14 +26,14 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 ## Immu3 dApp Deployment Table
 
-| ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **** | **** | **** | **** | **** |
-|-------------------------|-------------|-------------|------------|------------------|------|------|------|------|------|
-| **dMail**               |             |             |            |                  |      |      |      |      |      |
-| **dChat**               |             |             |            |                  |      |      |      |      |      |
-| **W3XShare**            |             |             |            |                  |      |      |      |      |      |
-| **PX Drive**            |             |             |            |                  |      |      |      |      |      |
-| **PX Dashboard**        |             |             |            |                  |      |      |      |      |      |
-| **Encryptor Extension** |             |             |            |                  |      |      |      |      |      |
+| ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | 
+|-------------------------|-------------|-------------|------------|------------------|
+| **dMail**               |             |             |            |                  |
+| **dChat**               |             |             |            |                  |
+| **W3XShare**            |             |             |            |                  | 
+| **PX Drive**            |             |             |            |                  | 
+| **PX Dashboard**        |             |             |            |                  |
+| **Encryptor Extension** |             |             |            |                  |
 
 ## Start Building
 
