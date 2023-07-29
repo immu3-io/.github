@@ -6,13 +6,13 @@
   <img alt="IMMU3 logo" src="https://github.com/immu3-io/static-assets/raw/main/image/logo-dark.svg">
 </picture>
 
-Immu3 is an on-chain communication technology; (1) infrastructure, and; (2) integrator. It utilizes a permissionless agnostic protocol stack that can support 1000s of on-chain communication dApps to evolve on Web3. Built on top of the Block Labs 4thTech stack, the immu3 acts as the first on-chain communication integrator focusing on the adoption and commercialisation of this new technology.
+Immu3 is an on-chain communication technology infrastructure and 4thTech Level 1 integrator. It utilizes a permissionless agnostic protocol stack that can support 1000s of on-chain communication dApps to evolve on Web3. To achieve full immutability and self-custodianship every email, message, or data file transfer is represented as an L1 or L2 TX (i.e. transaction). Users' communication and data are accessible only with his or her private key.
 
-Users will always have the freedom to move and access their communication or data between dApps, while the developers will always have permissionless access to build communication-specific applications.
+Users will always be free to move and access their communication or data between dApps, while the developers will always have permissionless access to build communication-specific applications.
 
 ## Interested in reading more?
 
-In-depth research and clarificatios can be found in
+In-depth research and clarifications can be found in
 the projects [Thesis](https://bit.ly/immu3-thesis)
 
 ## Contact
