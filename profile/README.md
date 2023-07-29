@@ -24,6 +24,30 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 ![immu3 by layers](https://github.com/immu3-io/static-assets/blob/b90554bcca1a4d7696079beb1a0cab5265129afa/image/infrastructural-layer-schematic-immu3.svg)
 
+## Immu3 dApp Deployment Table
+
+| ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **** | **** | **** | **** | **** |
+|-------------------------|-------------|-------------|------------|------------------|------|------|------|------|------|
+| **dMail**               |             |             |            |                  |      |      |      |      |      |
+| **dChat**               |             |             |            |                  |      |      |      |      |      |
+| **W3XShare**            |             |             |            |                  |      |      |      |      |      |
+| **PX Drive**            |             |             |            |                  |      |      |      |      |      |
+| **PX Dashboard**        |             |             |            |                  |      |      |      |      |      |
+| **Encryptor Extension** |             |             |            |                  |      |      |      |      |      |
+
+## Start Building
+
+A permissionless Level 2 integrator licence is available via Level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level 1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
+
+💡**SDK v.1** provides abstractions to assist you with interacting with the v.1 Protocol smart contracts in a Typescript/Javascript environment. With the SDK, you can manipulate data that has been queried from the EVM using libraries that assist with needs such as data modelling, protection from rounding errors, and compiling time-enforced typing.
+
+💡**dMail & dChat white-label framework** enables fast and easy builds. White-label-based modern minimalistic design style emphasizes simplicity with simple intuitive but effective navigation and setup system. A simple user interface has been developed to offer a step-by-step setup enabling the best possible user experience.
+
+ ****            | **Repo** | **Wiki** |
+:---------------:|:--------:|:--------:|
+ **SDK v.1**     |     [Go](https://github.com/4thtech/4thtech-sdk-js)     |     [Go](https://wiki.4thtech.io/docs/sdk)     |     
+ **White-label** |      [Go](https://github.com/4thtech/white-label-client)    |     [Go](https://wiki.4thtech.io/docs/white-label)     |
+
 ## Interested in reading more?
 
 In-depth research and clarifications can be found in
