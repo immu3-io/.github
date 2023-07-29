@@ -1,5 +1,7 @@
 # Introduction to IMMU3
 
+“Users will always have the freedom to move and access their communication or data between dApps, while the developers will always have permissionless access to build communication-specific applications.”
+
 ![immu3 creative](https://github.com/immu3-io/static-assets/blob/323c63bb25f4e923589422c156895c0fe3f30153/image/immu3_creative.png)
 
 Immu3 is an on-chain communication technology infrastructure and [4thTech](https://github.com/4thtech) **Level 1** integrator. It utilizes a permissionless agnostic protocol stack that can support 1000s of on-chain communication dApps to evolve on Web3. To achieve full immutability and self-custodianship every email, message, or data file transfer is represented as an L1 or L2 TX (i.e. transaction). Users' communication and data are accessible only with his or her private key.
