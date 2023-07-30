@@ -27,13 +27,13 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 ## Immu3 dApp Deployment Table
 
 | ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **Manual** |
-|:-------------------------:|:-------------:|:-------------:|------------:|:------------------:|------------------:|
+|:-------------------------:|:-------------:|:-------------:|:------------:|:------------------:|:------------------:|
 | **dMail**               | [Go](https://testnet.immu3.io)       | [Go](https://app.immu3.io)            | [Go](https://github.com/immu3-io/app.immu3.io)           | /                 | [Go](https://wiki.immu3.io/dapps-and-clients/intro-to-dmail)                 |
-| **dChat**               | [Go](https://testnet.immu3.io)            | [Go](https://app.immu3.io)            | [Go](https://github.com/immu3-io/app.immu3.io)           | /                 |                  |
-| **W3XShare**            | [Go](https://testnet.w3xshare.com)            | [Go](https://w3xshare.com)            | [Go](https://github.com/immu3-io/w3xshare.com)           | /                 |                  |
-| **PX Drive**            | [Go](https://testnet.drive.pollinationx.io)            | [Go](https://drive.pollinationx.io)            | [Go](https://github.com/PollinationX/pxDrive)           | /                 |                  | 
-| **PX Dashboard**        | [Go](https://testnet.pollinationx.io)            | [Go](https://app.pollinationx.io)            | [Go](https://github.com/PollinationX/dapp)           | /                 |                  |
-| **Encryptor Extension** | /           | /            | [Go](https://github.com/4thtech/encryptor-extension)           | [Go](https://chrome.google.com/webstore/detail/encryptor/feolajpinjjfikmmeknkdjbllbppojij?hl=en)                 |                  |
+| **dChat**               | [Go](https://testnet.immu3.io)            | [Go](https://app.immu3.io)            | [Go](https://github.com/immu3-io/app.immu3.io)           | /                 | [Go](https://wiki.immu3.io/dapps-and-clients/intro-to-dchat)                 |
+| **W3XShare**            | [Go](https://testnet.w3xshare.com)            | [Go](https://w3xshare.com)            | [Go](https://github.com/immu3-io/w3xshare.com)           | /                 | [Go](https://wiki.immu3.io/dapps-and-clients/intro-to-w3xshare)                 |
+| **PX Drive**            | [Go](https://testnet.drive.pollinationx.io)            | [Go](https://drive.pollinationx.io)            | [Go](https://github.com/PollinationX/pxDrive)           | /                 | [Go](https://wiki.immu3.io/dapps-and-clients/intro-to-px-drive)                 | 
+| **PX Dashboard**        | [Go](https://testnet.pollinationx.io)            | [Go](https://app.pollinationx.io)            | [Go](https://github.com/PollinationX/dapp)           | /                 | [Go](https://wiki.pollinationx.io/overview/px-dashboard)                 |
+| **Encryptor Extension** | /           | /            | [Go](https://github.com/4thtech/encryptor-extension)           | [Go](https://chrome.google.com/webstore/detail/encryptor/feolajpinjjfikmmeknkdjbllbppojij?hl=en)                 | [Go](https://wiki.immu3.io/dapps-and-clients/encryptor-extension)                 |
 
 ## Start Building
 
