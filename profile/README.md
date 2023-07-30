@@ -28,12 +28,12 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 | ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **Manual** |
 |-------------------------|-------------|-------------|------------|------------------|------------------|
-| **dMail**               | [Go](https://github.com/4thtech/sdk-js)            |             |            |                  |                  |
-| **dChat**               | [Go](https://github.com/4thtech/sdk-js)            |             |            |                  |                  |
-| **W3XShare**            | [Go](https://github.com/4thtech/sdk-js)            |             |            |                  |                  |
-| **PX Drive**            | [Go](https://github.com/4thtech/sdk-js)            |             |            |                  |                  | 
-| **PX Dashboard**        | [Go](https://github.com/4thtech/sdk-js)            |             |            |                  |                  |
-| **Encryptor Extension** | [Go](https://github.com/4thtech/sdk-js)           |             |            |                  |                  |
+| **dMail**               |      [Go](https://github.com/4thtech/sdk-js)       |             |            |                  |                  |
+| **dChat**               |             |             |            |                  |                  |
+| **W3XShare**            |             |             |            |                  |                  |
+| **PX Drive**            |             |             |            |                  |                  | 
+| **PX Dashboard**        |             |             |            |                  |                  |
+| **Encryptor Extension** |             |             |            |                  |                  |
 
 ## Start Building
 
