@@ -27,8 +27,8 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 ## Immu3 dApp Deployment Table
 
 | ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **Manual** |
-|-------------------------|-------------|-------------|------------|------------------|------------------|
-| **dMail**               |      [Go](https://github.com/4thtech/sdk-js)       |             |            |                  |                  |
+|:-------------------------:|:-------------:|:-------------:|------------:|:------------------:|------------------:|
+| **dMail**               | [Go](https://github.com/4thtech/sdk-js)       |             |            |                  |                  |
 | **dChat**               |             |             |            |                  |                  |
 | **W3XShare**            |             |             |            |                  |                  |
 | **PX Drive**            |             |             |            |                  |                  | 
