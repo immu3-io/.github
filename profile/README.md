@@ -37,7 +37,7 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 ## Start Building
 
-A permissionless Level 2 integrator licence is available via Level 1 integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise Level 1 integrator licence is available via Block Labs and is meant for traditional businesses or offices, L1s, wallets, and existing applications.
+A permissionless **Level 2** integrator licence is available via **Level 1** integrator [Immu3](https://wiki.immu3.io/) and is perfect for teams wanting to build their own on-chain communication dApps. Enterprise **Level 1** integrator licence is available via Block Labs [4thTech] and is meant for traditional businesses or offices, L1s/L2s, wallets, and existing applications.
 
 💡**SDK v.1** provides abstractions to assist you with interacting with the v.1 Protocol smart contracts in a Typescript/Javascript environment. The SDK also simplifies the encryption process and remote storage access.
 
