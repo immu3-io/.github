@@ -1,4 +1,4 @@
-# Introduction to IMMU3
+# Introduction to Immu3
 
 ### Permissionless "on-chain" communication protocol stack that can support 1000s of communication dApps to evolve on Web3. ### 
 
