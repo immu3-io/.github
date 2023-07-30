@@ -24,7 +24,7 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 ![immu3 by layers](https://github.com/immu3-io/static-assets/blob/b90554bcca1a4d7696079beb1a0cab5265129afa/image/infrastructural-layer-schematic-immu3.svg)
 
-## Immu3 dApp Ecosystem Deployment Table
+## Immu3 dApp & Client Ecosystem Deployment Table
 
 | ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **Manual** |
 |:-------------------------:|:-------------:|:-------------:|:------------:|:------------------:|:------------------:|
