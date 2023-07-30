@@ -28,12 +28,12 @@ Zooming out, the stack is quite straightforward. As shown in the schematic, ther
 
 | ****                    | **TestNet** | **MainNet** | **GitHub** | **Chrome Store** | **Manual** |
 |:-------------------------:|:-------------:|:-------------:|------------:|:------------------:|------------------:|
-| **dMail**               | [Go](https://github.com/4thtech/sdk-js)       |             |            |                  |                  |
-| **dChat**               |             |             |            |                  |                  |
-| **W3XShare**            |             |             |            |                  |                  |
-| **PX Drive**            |             |             |            |                  |                  | 
-| **PX Dashboard**        |             |             |            |                  |                  |
-| **Encryptor Extension** |             |             |            |                  |                  |
+| **dMail**               | [Go](https://testnet.immu3.io)       |             |            |                  |                  |
+| **dChat**               | [Go](https://testnet.immu3.io)            |             |            |                  |                  |
+| **W3XShare**            | [Go](https://testnet.w3xshare.com)            |             |            |                  |                  |
+| **PX Drive**            | [Go](https://testnet.drive.pollinationx.io)            |             |            |                  |                  | 
+| **PX Dashboard**        | [Go](https://testnet.pollinationx.io)            |             |            |                  |                  |
+| **Encryptor Extension** | /           |             |            |                  |                  |
 
 ## Start Building
 
