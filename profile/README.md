@@ -22,7 +22,7 @@ Every wallet becomes an on-chain identity, and the message or data vault can be 
 
 Zooming out, the stack is quite straightforward. As shown in the schematic, there are dApps built on top of the [SDK v.1](https://github.com/4thtech/4thtech-sdk-js), powered by [OCC Protocol v.1](https://github.com/4thtech/smart-contracts), encryption, [PollinationX](https://github.com/pollinationx/) storage and blockchain networks. To be able to establish Web3's first communication standard, Protocol v.1 will be deployed on many L1s and L2s. Please check the [Immu3 multi-chain](https://wiki.immu3.io/infrastructure/protocol-v.1/multi-chain) table to follow the standard deployment. To support enterprise and mobile "on-chain" communication at scale, the deployment of communication-specific blockchain would be needed in the future.
 
-![immu3 by layers](https://github.com/immu3-io/static-assets/blob/05ea20e2dd2bdceb8c1f20fae260d3c5f42de2c2/image/infrastructural-layer-schematic-immu3-transparent.svg)
+![immu3 by layers](https://github.com/immu3-io/static-assets/blob/aa44d8990e1e598ae2a0abbf23b040546e611ef8/image/infrastructural-layer-schematic-immu3-v4-transparent.svg)
 
 ## Immu3 dApp & Client Ecosystem Deployment Table
 
